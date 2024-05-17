@@ -6,5 +6,5 @@ Javascript
 
 # Live Project can be accessed below
 
--[Weather-App]()
+-[Weather-App](https://weather-app-jyoti.netlify.app/)
 
